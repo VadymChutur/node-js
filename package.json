@@ -1,0 +1,24 @@
+{
+  "name": "node-js-practice",
+  "version": "1.0.0",
+  "description": "practise node",
+  "source": "/src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadymChutur/node-js.git"
+  },
+  "author": "falloutgreck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadymChutur/node-js/issues"
+  },
+  "homepage": "https://github.com/VadymChutur/node-js#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
